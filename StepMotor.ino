@@ -13,7 +13,6 @@ decode_results results;   // create instance of 'decode_results'
 boolean moveUp = 0;
 boolean moveDown = 0;
 
-
 void setup() {
   Serial.begin(9600);   // set up Serial library at 9600 bps
   Serial.println("Stepper setup - Begin! 27/09 10:46");
