@@ -1,0 +1,6 @@
+{
+    "sketch": "StepMotor.ino",
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:usbasp",
+    "port": "/dev/tty.usbmodem00001"
+}
